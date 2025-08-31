@@ -3,7 +3,7 @@
 <h3 align="center">Embedded Systems and IoT*</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;MCA+Graduate+2024;Learning+Everyday;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Embedded Systems and IoT;AI+%26+ML+Enthusiast;MCA+Graduate+2024;Learning+Everyday;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
