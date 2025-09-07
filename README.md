@@ -14,12 +14,18 @@
 - Exploring **IoT applications** for real-world problems  
 - Interested in **electronics + software integration**
 
-###🎯 **Goals**  
+###🎯 Goals
 - Become a skilled **Embedded Systems Engineer**  
 - Work on real-time hardware + software solutions  
 - Contribute to **open-source embedded projects**
 
 #### I believe in continuous learning, problem-solving, and collaborating on projects that challenge me to grow as a developer. I’m always open to new opportunities, collaborations, and ways to contribute to meaningful projects. 
+
+### My Experience
+📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/1xQK0OMgXzArnDoKwLGcPdtJ4b1MSzFLt/view?usp=sharing).
+
+### Get in Touch
+📧 You can reach me at **fajjufms@gmail.com**. Feel free to drop me a message or collaborate on exciting projects.
 
 ---
 
